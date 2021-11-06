@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @jererobles
-- 👀 I’m interested in training machines to make life easier for humans
-- 🌱 I’m currently learning about DeFi and AI
-- 💞️ I’m looking to collaborate on cool projects made by passionate people 
+- 🌱 I’m currently learning about DeFi and AI 
 - 📫 How to reach me: email is `hello@[username].com`
