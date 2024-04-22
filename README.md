@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @jererobles
-- 🌱 I’m currently learning about DeFi and AI 
-- 📫 How to reach me: email is `hello@[username].com`
